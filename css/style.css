@@ -1416,8 +1416,7 @@ h6 {
 .education__container {
   background-color: #EDF7FD;
   border-radius: 40px;
-  outline: 1px solid #DFE6F0;
-  outline-offset: -8px;
+ 
 }
 
 .education__container-small {
@@ -2677,8 +2676,7 @@ h6 {
   .item-body-advantages:last-child {
     border-radius: 40px;
     background: #EDF7FD;
-    outline: 1px solid #DFE6F0;
-    outline-offset: -8px;
+   
   }
 }
 
